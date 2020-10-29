@@ -10,3 +10,8 @@ The applcation user interface contains a homepage, customer profile page, shoppi
 # Project Demo
 ![main](https://github.com/bryanltj/Booking_PoC/blob/main/img.png)
 
+# Techinical Tools
+  ## Backend
+  Spring Boot: Container + MVC framework  
+  Spring Security: Athentication and Authorization framework
+
