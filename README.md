@@ -8,5 +8,5 @@ Booking_and_Order_PoC is a implementation of booking and shoping application. It
 The applcation user interface contains a homepage, customer profile page, shopping cart, booking and order page, login and signup page, customer service  page and insider suggestion page. The backend part contains modules including product management, booking and order management, user management, promotion management, operation management, content management, statistics, priviledge management.
 
 # Project Demo
-![image](http://github.com/bryanltj/Booking_PoC/img.png)
+![main](https://github.com/bryanltj/Booking_PoC/blob/main/img.png)
 
